@@ -5,3 +5,5 @@ This C++ program is able to uses OpenCV's built-in face cascade classifier (haar
 Make sure you have this XML file available in the correct location. The code captures frames from the webcam, 
 converts them to grayscale (which is required for face detection),
 detects faces using the cascade classifier, and draws rectangles around the detected faces.
+
+Note: In other for the code to work effectively you need to install OpenCV library on your VS Code or Code Block.
